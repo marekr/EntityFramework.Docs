@@ -50,6 +50,7 @@ design-time factory instead.
 ``` csharp
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Design;
 
 namespace MyProject
 {
